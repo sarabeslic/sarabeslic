@@ -4,9 +4,9 @@
 <br>
 
 
-- 🔭 I’m currently working on **3D robot model in Blender**
+- 🔭 I’m currently working on **Isometric room in Blender**
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **Unity and C#**
 
 - 📫 How to reach me **sarabeslic52@gmail.com**
 

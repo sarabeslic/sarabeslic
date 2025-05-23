@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sara Beslic</h1>
-<h3 align="center">Aspiring game and web developer currently studying and building projects</h3>
+<h3 align="center">Game and web development student currently working on university projects</h3>
 <img align="right"  alt=codingCat" style="border: 1px solid black; border-radius: 10px;" width="300" src="https://i.giphy.com/ptqAPgghLtHOa0SLJS.webp">
 <br>
 
 
-- 🔭 I’m currently working on **Isometric room in Blender and Unity group project 3D game**
+- 🔭 I’m currently working on **Witch — open world 3D game (group project): making items in Blender and building the game in Unity**
 
 - 🌱 I’m currently learning **Unity and C#**
 

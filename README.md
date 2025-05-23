@@ -4,7 +4,7 @@
 <br>
 
 
-- 🔭 I’m currently working on **Witch — open world 3D game (group project): making items in Blender and building the game in Unity**
+- 🔭 I’m working on **Witch — open world 3D game (group project): making items in Blender and building the game in Unity**
 
 - 🌱 I’m currently learning **Unity and C#**
 

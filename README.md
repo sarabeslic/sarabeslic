@@ -4,9 +4,8 @@
 <br>
 
 
-- 🔭 I’m working on **Witch — open world 3D game (group project): making items in Blender and building the game in Unity**
-
-- 🌱 I’m currently learning **Unity and C#**
+- 🔭 I’m working on **Uni group project 1 : console based game, project 2: pokemon set data website**
+- 🌱 I’m currently learning **C fundamentals, data structures and software engineering**
 
 - 📫 How to reach me **sarabeslic52@gmail.com**
 
